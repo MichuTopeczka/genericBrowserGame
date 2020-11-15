@@ -1,0 +1,26 @@
+#nickgracza {
+    background-image: url(ramka.png);
+    background-repeat: no-repeat;
+    font-size: 15px;
+    }
+
+#gildiagracza {
+    background-image: url(ramka.png);
+    background-repeat: no-repeat;
+    font-size: 15px;
+}
+#lvlgracza {
+    background-image: url(ramka.png);
+    background-repeat: no-repeat;
+    font-size: 15px;
+}
+.right{
+    float: right; 
+    display:inline;
+    font-size: 20px;
+}
+.lewa{
+    float: left; 
+    display:inline;
+    font-size: 20px;
+}
